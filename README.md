@@ -1,6 +1,6 @@
 ### Hi there, I'm Mohamed Amine - aka [DAMINE][website] 👋
 
-[![Website](https://img.shields.io/website?label=damine.tn&style=for-the-badge&url=https://damine.tn)](https://damine.tn){:target="\_blank"}
+[![Website](https://img.shields.io/website?label=damine.tn&style=for-the-badge&url=https://damine.tn)](https://damine.tn)
 
 ## I'm a Father of 2 cats, Developer, and a Gamer!!
 
@@ -10,16 +10,16 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://novatorem-silk-seven.vercel.app/api/spotify" alt="DAMINE Spotify Playing" width="350" />](https://open.spotify.com/user/tl90kbd8txx11xwbdblqu1t1i){:target="\_blank"}
+[<img src="https://novatorem-silk-seven.vercel.app/api/spotify" alt="DAMINE Spotify Playing" width="350" />](https://open.spotify.com/user/tl90kbd8txx11xwbdblqu1t1i)
 
 ### Connect with me:
 
-[<img align="left" alt="damine.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]{:target="\_blank"}
-[<img align="left" alt="DAMINE (TunisianInBrazil)j | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]{:target="\_blank"}
-[<img align="left" alt="DAMINE | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]{:target="\_blank"}
-[<img align="left" alt="DAMINE | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]{:target="\_blank"}
-[<img align="left" alt="DAMINE | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]{:target="\_blank"}
-[<img align="left" alt="DAMINE (TunisianInBrazil) | Twitch" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitch.svg" />][twitch]{:target="\_blank"}
+[<img align="left" alt="damine.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="DAMINE (TunisianInBrazil)j | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="DAMINE | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="DAMINE | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="DAMINE | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="DAMINE (TunisianInBrazil) | Twitch" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitch.svg" />][twitch]
 <br />
 
 <details>
