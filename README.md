@@ -2,7 +2,7 @@
 
 [![Website](https://img.shields.io/website?label=damine.tn&style=for-the-badge&url=https://damine.tn)](https://damine.tn)
 
-## I'm a Father of 3 cats(Kovu, Nala and Kiara), Software Developer, and a Gamer!!
+## I'm a Father of 4 cats(Kovu, Nala, Kiara and Dwala), Software Developer, and a Gamer!!
 
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2020 Goals: Learn everything.
