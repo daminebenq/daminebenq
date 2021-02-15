@@ -8,9 +8,19 @@
 - 🥅 2020 Goals: Learn everything.
 - ⚡ Fun fact: I ride my bike in the weekends.
 
+![MY BABIES](/home/damine/daminebenq/imgs/cats_github.jpeg)
+
 ### Spotify Playing 🎧
 
 [<img src="https://novatorem-silk-seven.vercel.app/api/spotify" alt="DAMINE Spotify Playing" width="350" />](https://open.spotify.com/user/tl90kbd8txx11xwbdblqu1t1i)
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=tl90kbd8txx11xwbdblqu1t1i)
+
+## 🔧 Technologies & Tools
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 
 ### Connect with me:
 
@@ -25,14 +35,21 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="DAMINE's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=daminebenq&show_icons=true&hide_border=true" />
+  <a href="https://github.com/daminebenq/daminebenq">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daminebenq&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  </a>
+  <a href="https://github.com/daminebenq/daminebenq">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=daminebenq&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="daminebenq's GitHub Stats" />
+  </a>
 
 </details>
 
+<a href="https://www.buymeacoffee.com/damine" target="_blank"><img width="150px" height="40px" src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" /></a>
+
 [website]: https://www.damine.tn
-[twitter]: https://twitter.com/daminebenz
-[youtube]: https://youtube.com/tunisianinbrazil
-[instagram]: https://instagram.com/damine.js
 [linkedin]: https://linkedin.com/in/damine-bens
 [facebook]: https://facebook.com/damine.wtf
+[instagram]: https://instagram.com/damine.js
 [twitch]: https://twitch.com/tunisianinbrazil
+[youtube]: https://youtube.com/tunisianinbrazil
+[twitter]: https://twitter.com/daminebenz
