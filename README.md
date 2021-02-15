@@ -1,18 +1,27 @@
 ### Hi there, I'm Mohamed Amine - aka [DAMINE][website] 👋
 
-[![Website](https://img.shields.io/website?label=damine.tn&style=for-the-badge&url=https://damine.tn)](https://damine.tn)
+[![Website](https://img.shields.io/website?label=damine.tn&style=for-the-badge&url=https://damine.tn)](https://damine.tn) <a href="https://www.buymeacoffee.com/damine" target="_blank"><img width="150px" height="40px" src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" /></a>
 
-## I'm a Father of 4 cats(Kovu, Nala, Kiara and Dwala), Software Developer, and a Gamer!!
+## I'm a Software Developer, and a Gamer!!
 
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2020 Goals: Learn everything.
+- 🎓 I’m finishing my university at FADERGS, RS-Brazil 💪
+- 🥅 2021 Goals: Learn everything.
 - ⚡ Fun fact: I ride my bike in the weekends.
+- 🏋️ And yeah, I started going to gym 😬...
 
-![MY BABIES](/home/damine/daminebenq/imgs/cats_github.jpeg)
+![MY BABIES](https://raw.githubusercontent.com/daminebenq/daminebenq/master/imgs/cats_github.jpeg)
+
+## I'm a Father of 4 cats(Kovu, Nala, Kiara and Dwala) 🐈+🐈+🐈+🐈 = 🤯
+
+- Kovu: ![Kovu ♂ ≈1y9m](https://raw.githubusercontent.com/daminebenq/daminebenq/master/imgs/kovu_github.jpeg)
+- Nala: ![Nala ♀️ ≈1y4m](https://raw.githubusercontent.com/daminebenq/daminebenq/master/imgs/nala_github.jpeg)
+- Kiara: ![Kiara ♀️ ≈8m](https://raw.githubusercontent.com/daminebenq/daminebenq/master/imgs/kiara_github.jpeg)
+- Dwala: ![Dwala ♀️ ≈4m](https://raw.githubusercontent.com/daminebenq/daminebenq/master/imgs/dwala_github.jpeg)
 
 ### Spotify Playing 🎧
-
-[<img src="https://novatorem-silk-seven.vercel.app/api/spotify" alt="DAMINE Spotify Playing" width="350" />](https://open.spotify.com/user/tl90kbd8txx11xwbdblqu1t1i)
+<!-- 
+[<img src="https://novatorem-silk-seven.vercel.app/api/spotify" alt="DAMINE Spotify Playing" width="350" />](https://open.spotify.com/user/tl90kbd8txx11xwbdblqu1t1i) -->
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=tl90kbd8txx11xwbdblqu1t1i)
 
@@ -43,8 +52,6 @@
   </a>
 
 </details>
-
-<a href="https://www.buymeacoffee.com/damine" target="_blank"><img width="150px" height="40px" src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" /></a>
 
 [website]: https://www.damine.tn
 [linkedin]: https://linkedin.com/in/damine-bens
