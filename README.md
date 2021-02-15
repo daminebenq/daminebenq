@@ -14,14 +14,36 @@
 
 ## I'm a Father of 4 cats(Kovu, Nala, Kiara and Dwala) 🐈+🐈+🐈+🐈 = 🤯
 
-- Kovu: ![Kovu ♂ ≈1y9m](https://raw.githubusercontent.com/daminebenq/daminebenq/master/imgs/kovu_github.jpeg)
-- Nala: ![Nala ♀️ ≈1y4m](https://raw.githubusercontent.com/daminebenq/daminebenq/master/imgs/nala_github.jpeg)
-- Kiara: ![Kiara ♀️ ≈8m](https://raw.githubusercontent.com/daminebenq/daminebenq/master/imgs/kiara_github.jpeg)
-- Dwala: ![Dwala ♀️ ≈4m](https://raw.githubusercontent.com/daminebenq/daminebenq/master/imgs/dwala_github.jpeg)
+<table>
+  <tr>
+    <td align="center">
+      <h4>Kovu ♂ [≈1y9m]
+        <img src="https://raw.githubusercontent.com/daminebenq/daminebenq/master/imgs/kovu_github.jpeg" width="100px;" alt="Kovu"/>
+      </h4>
+      <br />
+    </td>
+    <td align="center">
+      <h4>Nala ♀️ [≈1y4m]
+        <img src="https://raw.githubusercontent.com/daminebenq/daminebenq/master/imgs/nala_github.jpeg" width="100px;" alt="Nala"/>
+      </h4>
+      <br />
+    </td>
+    <td align="center">
+      <h4>Kiara ♀️ [≈8m]
+        <img src="https://raw.githubusercontent.com/daminebenq/daminebenq/master/imgs/kiara_github.jpeg" width="100px;" alt="Kiara"/>
+      </h4>
+      <br />
+    </td>
+    <td align="center">
+      <h4>Dwala ♀️ [≈4m]
+        <img src="https://raw.githubusercontent.com/daminebenq/daminebenq/master/imgs/dwala_github.jpeg" width="100px;" alt="Dwala"/>
+      </h4>
+      <br />
+    </td>
+  </tr>
+</table>
 
 ### Spotify Playing 🎧
-<!-- 
-[<img src="https://novatorem-silk-seven.vercel.app/api/spotify" alt="DAMINE Spotify Playing" width="350" />](https://open.spotify.com/user/tl90kbd8txx11xwbdblqu1t1i) -->
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=tl90kbd8txx11xwbdblqu1t1i)
 
