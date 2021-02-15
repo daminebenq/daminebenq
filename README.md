@@ -24,12 +24,12 @@
 
 ### Connect with me:
 
-[<img align="left" alt="damine.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="damine.com" width="22px" src="https://icons.iconarchive.com/icons/treetog/junior/128/earth-icon.png" />][website]
 [<img align="left" alt="DAMINE (TunisianInBrazil)j | YouTube" width="22px" src="https://icons.iconarchive.com/icons/dakirby309/simply-styled/128/YouTube-icon.png" />][youtube]
-[<img align="left" alt="DAMINE | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="DAMINE | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="DAMINE | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="DAMINE (TunisianInBrazil) | Twitch" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitch.svg" />][twitch]
+[<img align="left" alt="DAMINE | Twitter" width="22px" src="https://icons.iconarchive.com/icons/bokehlicia/pacifica/128/twitter-icon.png" />][twitter]
+[<img align="left" alt="DAMINE | LinkedIn" width="22px" src="https://icons.iconarchive.com/icons/limav/flat-gradient-social/128/Linkedin-icon.png" />][linkedin]
+[<img align="left" alt="DAMINE | Instagram" width="22px" src="https://www.iconninja.com/files/268/699/635/instagram-icon.png" />][instagram]
+[<img align="left" alt="DAMINE (TunisianInBrazil) | Twitch" width="22px" src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/128/gnome-twitch-icon.png" />][twitch]
 <br />
 
 <details>
