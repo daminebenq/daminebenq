@@ -14,7 +14,7 @@
 ## I'm a Father of 4 cats(Kovu, Nala, Kiara and Dwala) 🐈+🐈+🐈+🐈 = 🤯
 
 <img src="https://raw.githubusercontent.com/daminebenq/daminebenq/master/imgs/cats_github.jpeg" width="854px;" alt="MY BABIES"/>
-<table style="border: 1px solid transparent">
+<table style="border: none;">
   <tr>
     <td align="center">
       <h4>Kovu ♂ [≈1y9m]
