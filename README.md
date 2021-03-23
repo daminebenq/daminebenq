@@ -75,7 +75,7 @@
 
 </details>
 
-[website]: https://www.damine.tn
+[website]: https://damine.tn
 [linkedin]: https://linkedin.com/in/damine-bens
 [facebook]: https://facebook.com/damine.wtf
 [instagram]: https://instagram.com/damine.js
