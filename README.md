@@ -11,31 +11,37 @@
 - 🏋️ And yeah, I started going to gym 😬...
 
 
-## I'm a Father of 4 cats(Kovu, Nala, Kiara and Dwala) 🐈+🐈+🐈+🐈 = 🤯
+## I'm a Father of 4 cats and a dog (Kovu, Nala, Kiara, Dwala and Black) 🐈+🐈+🐈+🐈+🐕 = 🤯
 
 <img src="https://raw.githubusercontent.com/daminebenq/daminebenq/master/imgs/cats_github.jpeg" width="854px;" alt="MY BABIES"/>
 <table style="border: none;">
   <tr>
     <td align="center">
-      <h4>Kovu ♂ [≈1y9m]
+      <h4>Kovu ♂🐈 [≈2y]
         <img src="https://raw.githubusercontent.com/daminebenq/daminebenq/master/imgs/kovu_github.jpeg" width="100px;" alt="Kovu"/>
       </h4>
       <br />
     </td>
     <td align="center">
-      <h4>Nala ♀️ [≈1y4m]
+      <h4>Nala ♀️🐈 [≈1y8m]
         <img src="https://raw.githubusercontent.com/daminebenq/daminebenq/master/imgs/nala_github.jpeg" width="100px;" alt="Nala"/>
       </h4>
       <br />
     </td>
     <td align="center">
-      <h4>Kiara ♀️ [≈8m]
+      <h4>Kiara ♀️🐈 [≈1y]
         <img src="https://raw.githubusercontent.com/daminebenq/daminebenq/master/imgs/kiara_github.jpeg" width="100px;" alt="Kiara"/>
       </h4>
       <br />
     </td>
     <td align="center">
-      <h4>Dwala ♀️ [≈4m]
+      <h4>Dwala ♀️🐈 [≈6m]
+        <img src="https://raw.githubusercontent.com/daminebenq/daminebenq/master/imgs/dwala_github.jpeg" width="100px;" alt="Dwala"/>
+      </h4>
+      <br />
+    </td>
+    <td align="center">
+      <h4>Black ♂🐕 [≈4m]
         <img src="https://raw.githubusercontent.com/daminebenq/daminebenq/master/imgs/dwala_github.jpeg" width="100px;" alt="Dwala"/>
       </h4>
       <br />
