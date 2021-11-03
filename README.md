@@ -1,6 +1,6 @@
 ### Hi there, I'm Mohamed Amine - aka [DAMINE][website] 👋
 
-[![Website](https://img.shields.io/website?label=damine.tn&style=for-the-badge&url=https://damine.tn)](https://damine.tn) [![Curriculum Vitae](https://img.shields.io/website?label=damine.tn&style=for-the-badge&url=https://cv.damine.tn)](https://cv.damine.tn) <a href="https://www.buymeacoffee.com/damine" target="_blank"><img width="150px" height="40px" src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" /></a>
+[![Website](https://img.shields.io/website?label=damine.tn&style=for-the-badge&url=https://damine.tn)](https://damine.tn) [![Curriculum Vitae](https://img.shields.io/website?label=cv.damine.tn&style=for-the-badge&url=https://cv.damine.tn)](https://cv.damine.tn) <a href="https://www.buymeacoffee.com/damine" target="_blank"><img width="150px" height="40px" src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" /></a>
 
 ## I'm a Software Developer, and a Gamer!!
 
