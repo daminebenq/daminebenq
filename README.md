@@ -14,7 +14,7 @@
 ## I'm a Father of 2 cats (Kovu & Kiara) 🐈+🐈 = 🤯
 
 <img src="https://raw.githubusercontent.com/daminebenq/daminebenq/master/imgs/cats_github.jpeg" width="854px;" alt="MY BABIES"/>
-<table style="border: none;">
+<table align="center" style="border: none;">
   <tr>
     <td align="center">
       <h4>Kovu ♂🐈 [≈2y]
