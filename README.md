@@ -17,9 +17,8 @@
 <table align="center" style="border: none;">
   <tr>
     <td align="center">
-      <h4>Kovu ♂🐈 [≈2y]
+      <h4>Kovu ♂🐈 [≈2y]</h4>
         <img src="https://raw.githubusercontent.com/daminebenq/daminebenq/master/imgs/kovu_github.jpeg" width="100px;" alt="Kovu"/>
-      </h4>
       <br />
     </td>
     <!--<td align="center">
@@ -29,9 +28,8 @@
       <br />
     </td> -->
     <td align="center">
-      <h4>Kiara ♀️🐈 [≈1y]
+      <h4>Kiara ♀️🐈 [≈1y]</h4>
         <img src="https://raw.githubusercontent.com/daminebenq/daminebenq/master/imgs/kiara_github.jpeg" width="100px;" alt="Kiara"/>
-      </h4>
       <br />
     </td>
     <!--<td align="center">
