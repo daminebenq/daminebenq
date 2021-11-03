@@ -11,7 +11,7 @@
 - 🏋️ And yeah, I started going to gym 😬...
 
 
-## I'm a Father of 4 cats and 1 dog (Kovu, Nala, Kiara, Dwala and Black) 🐈+🐈+🐈+🐈+🐕 = 🤯
+## I'm a Father of 2 cats (Kovu & Kiara) 🐈+🐈 = 🤯
 
 <img src="https://raw.githubusercontent.com/daminebenq/daminebenq/master/imgs/cats_github.jpeg" width="854px;" alt="MY BABIES"/>
 <table style="border: none;">
@@ -22,19 +22,19 @@
       </h4>
       <br />
     </td>
-    <td align="center">
+    <!--<td align="center">
       <h4>Nala ♀️🐈 [≈1y8m]
         <img src="https://raw.githubusercontent.com/daminebenq/daminebenq/master/imgs/nala_github.jpeg" width="100px;" alt="Nala"/>
       </h4>
       <br />
-    </td>
+    </td> -->
     <td align="center">
       <h4>Kiara ♀️🐈 [≈1y]
         <img src="https://raw.githubusercontent.com/daminebenq/daminebenq/master/imgs/kiara_github.jpeg" width="100px;" alt="Kiara"/>
       </h4>
       <br />
     </td>
-    <td align="center">
+    <!--<td align="center">
       <h4>Dwala ♀️🐈 [≈6m]
         <img src="https://raw.githubusercontent.com/daminebenq/daminebenq/master/imgs/dwala_github.jpeg" width="100px;" alt="Dwala"/>
       </h4>
@@ -45,7 +45,7 @@
         <img src="https://user-images.githubusercontent.com/5144311/117874919-f8cd7980-b277-11eb-9659-d6f67d2048f9.png" width="100px;" alt="Black"/>
       </h4>
       <br />
-    </td>
+    </td>-->
   </tr>
 </table>
 
