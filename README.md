@@ -13,7 +13,7 @@
 
 ## I'm a Father of 2 cats (Kovu & Kiara) 🐈+🐈 = 🤯
 
-<img src="https://raw.githubusercontent.com/daminebenq/daminebenq/master/imgs/cats_github.jpeg" width="854px;" alt="MY BABIES"/>
+<!--<img src="https://raw.githubusercontent.com/daminebenq/daminebenq/master/imgs/cats_github.jpeg" width="854px;" alt="MY BABIES"/> -->
 <table align="center" style="border: none;">
   <tr>
     <td align="center">
