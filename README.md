@@ -17,28 +17,28 @@
 <table align="center" style="border: none;">
   <tr>
     <td align="center">
-      <h4>Kovu ♂🐈 [≈2y]</h4>
+      <h4>Kovu ♂🐈 [≈2y4m]</h4>
         <img src="https://raw.githubusercontent.com/daminebenq/daminebenq/master/imgs/kovu_github.jpeg" width="100px;" alt="Kovu"/>
       <br />
     </td>
-    <!--<td align="center">
-      <h4>Nala ♀️🐈 [≈1y8m]
+    <td align="center">
+      <h4>Nala ♀️🐈 [≈1y11m]
         <img src="https://raw.githubusercontent.com/daminebenq/daminebenq/master/imgs/nala_github.jpeg" width="100px;" alt="Nala"/>
       </h4>
       <br />
-    </td> -->
+    </td>
     <td align="center">
-      <h4>Kiara ♀️🐈 [≈1y]</h4>
+      <h4>Kiara ♀️🐈 [≈1y3m]</h4>
         <img src="https://raw.githubusercontent.com/daminebenq/daminebenq/master/imgs/kiara_github.jpeg" width="100px;" alt="Kiara"/>
       <br />
     </td>
-    <!--<td align="center">
-      <h4>Dwala ♀️🐈 [≈6m]
+    <td align="center">
+      <h4>Dwala ♀️🐈 [≈9m]
         <img src="https://raw.githubusercontent.com/daminebenq/daminebenq/master/imgs/dwala_github.jpeg" width="100px;" alt="Dwala"/>
       </h4>
       <br />
     </td>
-    <td align="center">
+    <!--<td align="center">
       <h4>Black ♂🐕 [≈4m]
         <img src="https://user-images.githubusercontent.com/5144311/117874919-f8cd7980-b277-11eb-9659-d6f67d2048f9.png" width="100px;" alt="Black"/>
       </h4>
