@@ -22,11 +22,6 @@
         <br />
     </td>
     <td align="center">
-      <h4>Nala ♀️🐈 [≈2y2m]</h4>
-        <img src="https://raw.githubusercontent.com/daminebenq/daminebenq/master/imgs/nala_github.jpeg" width="100px;" alt="Nala"/>
-        <br />
-    </td>
-    <td align="center">
       <h4>Dwala ♀️🐈 [≈1y2mm]</h4>
         <img src="https://raw.githubusercontent.com/daminebenq/daminebenq/master/imgs/dwala_github.jpeg" width="100px;" alt="Dwala"/>
         <br />
