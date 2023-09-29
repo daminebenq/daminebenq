@@ -43,6 +43,8 @@
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=tl90kbd8txx11xwbdblqu1t1i)
 
+<img style="max-width: 300px;" src="http://88.214.58.107:1232/currentavatar" alt="Currently playing with TS3MusicBot®." title="Currently playing with TS3MusicBot®." />
+
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
