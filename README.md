@@ -13,14 +13,6 @@
 
 ## I'm a Father of 2 cats & 1 dog (Kovu & Dwala) 🐈+🐈+🐕  = 🤯
 
-### Kovu ♂🐈
-![Kovu](https://raw.githubusercontent.com/daminebenq/daminebenq/master/imgs/kovu_github.jpeg)
-
-Age: <span id="kovu-age">[3≈y9m]</span>
-
-### Dwala ♀️🐈
-![Dwala](https://raw.githubusercontent.com/daminebenq/daminebenq/master/imgs/dwala_github.jpeg)
-
 Age: <span id="dwala-age">[≈2y4m]</span>
 <!--<img src="https://raw.githubusercontent.com/daminebenq/daminebenq/master/imgs/cats_github.jpeg" width="854px;" alt="MY BABIES"/> -->
 <table align="center" style="border: none;">
@@ -42,33 +34,6 @@ Age: <span id="dwala-age">[≈2y4m]</span>
     </td>-->
   </tr>
 </table>
-
-
-<script>
-  document.addEventListener("DOMContentLoaded", () => {
-    let kovuMonths = 3 * 12 + 9; // Initially 3 years and 9 months
-    let dwalaMonths = 2 * 12 + 4; // Initially 2 years and 4 months
-
-    // Function to update age
-    const updateAge = (months, elementId) => {
-      let years = Math.floor(months / 12);
-      let remainingMonths = months % 12;
-      document.getElementById(elementId).innerText = `[${years}y${remainingMonths}m]`;
-    };
-
-    // Initialize age
-    updateAge(kovuMonths, "kovu-age");
-    updateAge(dwalaMonths, "dwala-age");
-
-    // Update age every minute (or any other time interval you like)
-    setInterval(() => {
-      kovuMonths++;
-      dwalaMonths++;
-      updateAge(kovuMonths, "kovu-age");
-      updateAge(dwalaMonths, "dwala-age");
-    }, 60000); // 60000 milliseconds = 1 minute
-  });
-</script>
 
 ### Spotify Playing 🎧
 
