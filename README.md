@@ -13,7 +13,6 @@
 
 ## I'm a Father of 2 cats & 1 dog (Kovu & Dwala) 🐈+🐈+🐕  = 🤯
 
-
 ### Kovu ♂🐈
 ![Kovu](https://raw.githubusercontent.com/daminebenq/daminebenq/master/imgs/kovu_github.jpeg)
 
@@ -23,7 +22,6 @@ Age: <span id="kovu-age">[3≈y9m]</span>
 ![Dwala](https://raw.githubusercontent.com/daminebenq/daminebenq/master/imgs/dwala_github.jpeg)
 
 Age: <span id="dwala-age">[≈2y4m]</span>
-
 <!--<img src="https://raw.githubusercontent.com/daminebenq/daminebenq/master/imgs/cats_github.jpeg" width="854px;" alt="MY BABIES"/> -->
 <table align="center" style="border: none;">
   <tr>
@@ -46,7 +44,6 @@ Age: <span id="dwala-age">[≈2y4m]</span>
 </table>
 
 
-```html
 <script>
   document.addEventListener("DOMContentLoaded", () => {
     let kovuMonths = 3 * 12 + 9; // Initially 3 years and 9 months
@@ -72,7 +69,7 @@ Age: <span id="dwala-age">[≈2y4m]</span>
     }, 60000); // 60000 milliseconds = 1 minute
   });
 </script>
-```
+
 ### Spotify Playing 🎧
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=tl90kbd8txx11xwbdblqu1t1i)
