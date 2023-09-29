@@ -6,23 +6,34 @@
 
 - 🌱 I’m currently learning everything 🤣
 - 🎓 I’m finishing my university at UNISINOS, RS-Brazil 💪
-- 🥅 2022 Goals: Learn everything.
-- ⚡ Fun fact: I ride my bike in the weekends.
+- 🥅 2027 Goals: Learn everything.
+- ⚡ Fun fact: I ride my bike at the weekends.
 - 🏋️ And yeah, I started going to gym 😬...
 
 
-## I'm a Father of 3 cats (Kovu, Nala & Dwala) 🐈+🐈+🐈 = 🤯
+## I'm a Father of 2 cats & 1 dog (Kovu & Dwala) 🐈+🐈+🐕  = 🤯
+
+
+### Kovu ♂🐈
+![Kovu](https://raw.githubusercontent.com/daminebenq/daminebenq/master/imgs/kovu_github.jpeg)
+
+Age: <span id="kovu-age">[3≈y9m]</span>
+
+### Dwala ♀️🐈
+![Dwala](https://raw.githubusercontent.com/daminebenq/daminebenq/master/imgs/dwala_github.jpeg)
+
+Age: <span id="dwala-age">[≈2y4m]</span>
 
 <!--<img src="https://raw.githubusercontent.com/daminebenq/daminebenq/master/imgs/cats_github.jpeg" width="854px;" alt="MY BABIES"/> -->
 <table align="center" style="border: none;">
   <tr>
     <td align="center">
-      <h4>Kovu ♂🐈 [≈2y9m]</h4>
+      <h4>Kovu ♂🐈 [3≈y9m]</h4>
         <img src="https://raw.githubusercontent.com/daminebenq/daminebenq/master/imgs/kovu_github.jpeg" width="100px;" alt="Kovu"/>
         <br />
     </td>
     <td align="center">
-      <h4>Dwala ♀️🐈 [≈1y2mm]</h4>
+      <h4>Dwala ♀️🐈 [≈2y4mm]</h4>
         <img src="https://raw.githubusercontent.com/daminebenq/daminebenq/master/imgs/dwala_github.jpeg" width="100px;" alt="Dwala"/>
         <br />
     </td>
@@ -34,6 +45,34 @@
   </tr>
 </table>
 
+
+```html
+<script>
+  document.addEventListener("DOMContentLoaded", () => {
+    let kovuMonths = 3 * 12 + 9; // Initially 3 years and 9 months
+    let dwalaMonths = 2 * 12 + 4; // Initially 2 years and 4 months
+
+    // Function to update age
+    const updateAge = (months, elementId) => {
+      let years = Math.floor(months / 12);
+      let remainingMonths = months % 12;
+      document.getElementById(elementId).innerText = `[${years}y${remainingMonths}m]`;
+    };
+
+    // Initialize age
+    updateAge(kovuMonths, "kovu-age");
+    updateAge(dwalaMonths, "dwala-age");
+
+    // Update age every minute (or any other time interval you like)
+    setInterval(() => {
+      kovuMonths++;
+      dwalaMonths++;
+      updateAge(kovuMonths, "kovu-age");
+      updateAge(dwalaMonths, "dwala-age");
+    }, 60000); // 60000 milliseconds = 1 minute
+  });
+</script>
+```
 ### Spotify Playing 🎧
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=tl90kbd8txx11xwbdblqu1t1i)
