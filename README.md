@@ -11,9 +11,8 @@
 - 🏋️ And yeah, I started going to gym 😬...
 
 
-## I'm a Father of 2 cats & 1 dog (Kovu & Dwala) 🐈+🐈+🐕  = 🤯
+## I'm a Father of 2 cats & 1 dog (Kovu & Dwala) 🐈+🐈+🐕+🐕  = 🤯
 
-Age: <span id="dwala-age">[≈2y4m]</span>
 <!--<img src="https://raw.githubusercontent.com/daminebenq/daminebenq/master/imgs/cats_github.jpeg" width="854px;" alt="MY BABIES"/> -->
 <table align="center" style="border: none;">
   <tr>
@@ -24,6 +23,16 @@ Age: <span id="dwala-age">[≈2y4m]</span>
     </td>
     <td align="center">
       <h4>Dwala ♀️🐈 [≈2y4mm]</h4>
+        <img src="https://raw.githubusercontent.com/daminebenq/daminebenq/master/imgs/dwala_github.jpeg" width="100px;" alt="Dwala"/>
+        <br />
+    </td>
+    <td align="center">
+      <h4>Black ♀️🐕 [≈3y]</h4>
+        <img src="https://raw.githubusercontent.com/daminebenq/daminebenq/master/imgs/dwala_github.jpeg" width="100px;" alt="Dwala"/>
+        <br />
+    </td>
+    <td align="center">
+      <h4>Spritz ♀️🐕 [≈4m]</h4>
         <img src="https://raw.githubusercontent.com/daminebenq/daminebenq/master/imgs/dwala_github.jpeg" width="100px;" alt="Dwala"/>
         <br />
     </td>
