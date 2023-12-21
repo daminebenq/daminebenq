@@ -10,7 +10,7 @@
 - 🏋️ And yeah, I started going to gym 😬...
 
 
-## I'm a Father of 2 cats & 2 dogs (Kovu & Dwala) 🐈+🐈+🐕+🐕  = 🤯
+## I'm a Father of 2 cats & 2 dogs (Kovu, Dwala, Black & Spritz) 🐈+🐈+🐕+🐕  = 🤯
 
 <!--<img src="https://raw.githubusercontent.com/daminebenq/daminebenq/master/imgs/cats_github.jpeg" width="854px;" alt="MY BABIES"/> -->
 <table align="center" style="border: none;">
