@@ -5,7 +5,6 @@
 ## I'm a Software Developer, and a Gamer!!
 
 - 🌱 I’m currently learning everything 🤣
-- 🎓 I’m finishing my university at UNISINOS, RS-Brazil 💪
 - 🥅 2027 Goals: Learn everything.
 - ⚡ Fun fact: I ride my bike at the weekends.
 - 🏋️ And yeah, I started going to gym 😬...
