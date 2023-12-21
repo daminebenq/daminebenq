@@ -27,12 +27,12 @@
     </td>
     <td align="center">
       <h4>Black ♀️🐕 [≈3y]</h4>
-        <img src="https://raw.githubusercontent.com/daminebenq/daminebenq/master/imgs/dwala_github.jpeg" width="100px;" alt="Dwala"/>
+        <img src="https://raw.githubusercontent.com/daminebenq/daminebenq/master/imgs/SCR-20231220-tkml.png" width="100px;" alt="Dwala"/>
         <br />
     </td>
     <td align="center">
       <h4>Spritz ♀️🐕 [≈4m]</h4>
-        <img src="https://raw.githubusercontent.com/daminebenq/daminebenq/master/imgs/dwala_github.jpeg" width="100px;" alt="Dwala"/>
+        <img src="https://raw.githubusercontent.com/daminebenq/daminebenq/master/imgs/SCR-20231220-tjym.png" width="100px;" alt="Dwala"/>
         <br />
     </td>
     <!--<td align="center">
