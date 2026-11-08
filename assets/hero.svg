@@ -1,35 +1,60 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="300" viewBox="0 0 1000 300" role="img" aria-labelledby="title desc">
-  <title id="title">Mohamed Amine Ben Salah — Software Developer and QA Automation Engineer</title>
-  <desc id="desc">Animated dark banner with moving gradients, code symbols, and Mohamed's professional title.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="340" viewBox="0 0 1000 340" role="img" aria-labelledby="title desc">
+  <title id="title">Mohamed Amine Ben Salah, Senior Frontend Developer and Senior SDET</title>
+  <desc id="desc">Animated banner. On the left, a browser window builds an interface. On the right, automated test checks pass one by one.</desc>
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#070b18"/><stop offset="0.5" stop-color="#111936"/><stop offset="1" stop-color="#071a20"/>
-    </linearGradient>
-    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
-      <stop stop-color="#7c3aed"><animate attributeName="stop-color" values="#7c3aed;#06b6d4;#22c55e;#7c3aed" dur="8s" repeatCount="indefinite"/></stop>
-      <stop offset="1" stop-color="#06b6d4"><animate attributeName="stop-color" values="#06b6d4;#22c55e;#7c3aed;#06b6d4" dur="8s" repeatCount="indefinite"/></stop>
-    </linearGradient>
-    <radialGradient id="orb"><stop stop-color="#22d3ee" stop-opacity=".6"/><stop offset="1" stop-color="#22d3ee" stop-opacity="0"/></radialGradient>
-    <filter id="glow"><feGaussianBlur stdDeviation="8"/></filter>
-    <clipPath id="reveal"><rect x="93" y="84" width="0" height="66"><animate attributeName="width" values="0;820;820" keyTimes="0;.55;1" dur="2.8s" fill="freeze"/></rect></clipPath>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#060912"/><stop offset=".55" stop-color="#0c1430"/><stop offset="1" stop-color="#05181a"/></linearGradient>
+    <linearGradient id="brand" x1="0" x2="1"><stop stop-color="#38bdf8"><animate attributeName="stop-color" values="#38bdf8;#a78bfa;#34d399;#38bdf8" dur="9s" repeatCount="indefinite"/></stop><stop offset="1" stop-color="#34d399"><animate attributeName="stop-color" values="#34d399;#38bdf8;#a78bfa;#34d399" dur="9s" repeatCount="indefinite"/></stop></linearGradient>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#1e293b" stroke-width=".7"/></pattern>
+    <clipPath id="name"><rect x="48" y="70" width="0" height="64"><animate attributeName="width" values="0;580" dur="1.6s" fill="freeze" calcMode="spline" keySplines=".2 .8 .2 1"/></rect></clipPath>
+    <filter id="soft"><feGaussianBlur stdDeviation="22"/></filter>
   </defs>
-  <rect width="1000" height="300" rx="24" fill="url(#bg)"/>
-  <g opacity=".22" stroke="#67e8f9" fill="none">
-    <path d="M0 55 Q220 10 430 70 T1000 42"><animate attributeName="d" values="M0 55 Q220 10 430 70 T1000 42;M0 70 Q250 105 470 40 T1000 66;M0 55 Q220 10 430 70 T1000 42" dur="10s" repeatCount="indefinite"/></path>
-    <path d="M0 245 Q200 190 430 250 T1000 215"><animate attributeName="d" values="M0 245 Q200 190 430 250 T1000 215;M0 220 Q250 275 500 205 T1000 242;M0 245 Q200 190 430 250 T1000 215" dur="12s" repeatCount="indefinite"/></path>
+  <rect width="1000" height="340" rx="24" fill="url(#bg)"/>
+  <rect width="1000" height="340" rx="24" fill="url(#grid)" opacity=".55"/>
+  <circle cx="770" cy="90" r="110" fill="#38bdf8" opacity=".14" filter="url(#soft)"><animate attributeName="cy" values="90;130;90" dur="8s" repeatCount="indefinite"/></circle>
+  <circle cx="900" cy="270" r="90" fill="#34d399" opacity=".12" filter="url(#soft)"><animate attributeName="cx" values="900;850;900" dur="9s" repeatCount="indefinite"/></circle>
+
+  <g font-family="Inter,Segoe UI,Helvetica,Arial,sans-serif">
+    <text x="50" y="58" fill="#7dd3fc" font-size="14" font-weight="700" letter-spacing="3">FRONTEND ENGINEERING  ×  QUALITY ENGINEERING</text>
+    <g clip-path="url(#name)"><text x="48" y="118" fill="#f8fafc" font-size="40" font-weight="800" textLength="560" lengthAdjust="spacingAndGlyphs">Mohamed Amine Ben Salah</text></g>
+    <rect x="50" y="138" width="0" height="4" rx="2" fill="url(#brand)"><animate attributeName="width" values="0;520" dur="1.8s" begin=".4s" fill="freeze"/></rect>
+    <text x="50" y="182" fill="#e2e8f0" font-size="23" font-weight="650">Senior Frontend Developer</text>
+    <text x="50" y="214" fill="#e2e8f0" font-size="23" font-weight="650">Senior SDET / Test Automation Engineer</text>
+    <text x="50" y="254" fill="#94a3b8" font-size="16">I build polished interfaces and the automated checks that keep them reliable.</text>
+    <g transform="translate(50 282)" font-size="13" font-weight="650">
+      <rect width="94" height="28" rx="14" fill="#0b2536" stroke="#0ea5e9"/><text x="47" y="19" text-anchor="middle" fill="#7dd3fc">React</text>
+      <rect x="104" width="112" height="28" rx="14" fill="#160f33" stroke="#8b5cf6"/><text x="160" y="19" text-anchor="middle" fill="#c4b5fd">TypeScript</text>
+      <rect x="226" width="108" height="28" rx="14" fill="#0b2a20" stroke="#10b981"/><text x="280" y="19" text-anchor="middle" fill="#6ee7b7">Playwright</text>
+      <rect x="344" width="88" height="28" rx="14" fill="#2a1d0b" stroke="#f59e0b"/><text x="388" y="19" text-anchor="middle" fill="#fcd34d">Cypress</text>
+    </g>
   </g>
-  <circle cx="845" cy="75" r="120" fill="url(#orb)" filter="url(#glow)"><animate attributeName="cx" values="845;900;845" dur="7s" repeatCount="indefinite"/></circle>
-  <g fill="#93c5fd" opacity=".55" font-family="ui-monospace,monospace" font-size="20">
-    <text x="58" y="52">&lt;build&gt;</text><text x="824" y="255">ship();</text><text x="866" y="126">✓</text>
+
+  <g transform="translate(640 54)">
+    <rect width="312" height="232" rx="16" fill="#0b1120" stroke="#334155"/>
+    <rect width="312" height="34" rx="16" fill="#111827"/><rect y="18" width="312" height="16" fill="#111827"/>
+    <circle cx="20" cy="17" r="5" fill="#f87171"/><circle cx="37" cy="17" r="5" fill="#fbbf24"/><circle cx="54" cy="17" r="5" fill="#34d399"/>
+    <rect x="76" y="10" width="160" height="14" rx="7" fill="#1e293b"/>
+    <g opacity="0"><animate attributeName="opacity" values="0;1" begin=".5s" dur=".5s" fill="freeze"/>
+      <rect x="20" y="52" width="130" height="14" rx="7" fill="#38bdf8"/>
+      <rect x="20" y="76" width="190" height="8" rx="4" fill="#334155"/>
+      <rect x="20" y="92" width="150" height="8" rx="4" fill="#334155"/>
+    </g>
+    <g opacity="0"><animate attributeName="opacity" values="0;1" begin="1s" dur=".5s" fill="freeze"/>
+      <rect x="20" y="116" width="84" height="60" rx="10" fill="#132238" stroke="#1d4ed8"/>
+      <rect x="114" y="116" width="84" height="60" rx="10" fill="#1b1638" stroke="#7c3aed"/>
+      <rect x="208" y="116" width="84" height="60" rx="10" fill="#0f2a24" stroke="#059669"/>
+      <path d="M30 160 L48 146 L62 154 L94 130" fill="none" stroke="#60a5fa" stroke-width="3" stroke-linecap="round"/>
+    </g>
+    <g opacity="0"><animate attributeName="opacity" values="0;1" begin="1.5s" dur=".5s" fill="freeze"/>
+      <rect x="20" y="190" width="104" height="26" rx="8" fill="url(#brand)"/><text x="72" y="208" text-anchor="middle" fill="#04111b" font-family="Inter,Segoe UI,sans-serif" font-size="12" font-weight="800">Ship UI</text>
+    </g>
+    <rect x="18" y="114" width="88" height="64" rx="11" fill="none" stroke="#fbbf24" stroke-width="2" stroke-dasharray="5 4" opacity="0">
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.1;.85;1" begin="2s" dur="4s" repeatCount="indefinite"/>
+      <animate attributeName="x" values="18;112;206;18" begin="2s" dur="4s" repeatCount="indefinite"/>
+    </rect>
   </g>
-  <g clip-path="url(#reveal)">
-    <text x="94" y="128" fill="#f8fafc" font-family="Inter,Segoe UI,sans-serif" font-size="48" font-weight="750">Mohamed Amine Ben Salah</text>
+  <g transform="translate(744 300)" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="12">
+    <text fill="#34d399" opacity="0">✓ renders dashboard<animate attributeName="opacity" values="0;1" begin="2.2s" dur=".3s" fill="freeze"/></text>
+    <text x="0" y="18" fill="#34d399" opacity="0">✓ passes a11y + visual checks<animate attributeName="opacity" values="0;1" begin="2.8s" dur=".3s" fill="freeze"/></text>
   </g>
-  <rect x="94" y="151" width="560" height="4" rx="2" fill="url(#accent)"><animate attributeName="width" values="0;560" dur="2.4s" fill="freeze"/></rect>
-  <text x="94" y="194" fill="#cbd5e1" font-family="Inter,Segoe UI,sans-serif" font-size="23">Software Developer  •  QA Automation Engineer  •  Open Source</text>
-  <g transform="translate(94 223)">
-    <circle cx="7" cy="7" r="7" fill="#22c55e"><animate attributeName="opacity" values="1;.25;1" dur="1.8s" repeatCount="indefinite"/></circle>
-    <text x="25" y="14" fill="#94a3b8" font-family="Inter,Segoe UI,sans-serif" font-size="18">Building dependable systems from southern Brazil</text>
-  </g>
-  <rect x="1" y="1" width="998" height="298" rx="23" fill="none" stroke="url(#accent)" stroke-opacity=".55"/>
+  <rect x="1" y="1" width="998" height="338" rx="23" fill="none" stroke="url(#brand)" stroke-opacity=".55"/>
 </svg>

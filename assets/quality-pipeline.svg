@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="210" viewBox="0 0 1000 210" role="img" aria-labelledby="title desc">
+  <title id="title">From interface to release</title>
+  <desc id="desc">Animated delivery pipeline: build the UI, run component tests, run end-to-end tests, check visual regressions, pass the CI gate, then release.</desc>
+  <defs>
+    <linearGradient id="flow" x2="1"><stop stop-color="#38bdf8"/><stop offset=".5" stop-color="#a78bfa"/><stop offset="1" stop-color="#34d399"/></linearGradient>
+    <filter id="glow"><feGaussianBlur stdDeviation="4"/></filter>
+  </defs>
+  <rect width="1000" height="210" rx="20" fill="#080d1a"/>
+  <text x="40" y="38" fill="#e2e8f0" font-family="Inter,Segoe UI,sans-serif" font-size="15" font-weight="800" letter-spacing="2">FROM INTERFACE TO RELEASE</text>
+  <path d="M90 112H910" stroke="#1e293b" stroke-width="6" stroke-linecap="round"/>
+  <path d="M90 112H910" stroke="url(#flow)" stroke-width="6" stroke-linecap="round" stroke-dasharray="820" stroke-dashoffset="820"><animate attributeName="stroke-dashoffset" values="820;0;0;820" keyTimes="0;.55;.9;1" dur="6s" repeatCount="indefinite"/></path>
+  <circle r="8" fill="#f8fafc" filter="url(#glow)"><animateMotion path="M90 112H910" dur="6s" keyPoints="0;1;1" keyTimes="0;.55;1" calcMode="linear" repeatCount="indefinite"/></circle>
+  <g font-family="Inter,Segoe UI,sans-serif" text-anchor="middle">
+    <g transform="translate(90 112)"><circle r="30" fill="#0b2536" stroke="#38bdf8" stroke-width="2"/><text y="6" font-size="18" fill="#7dd3fc">⌘</text><text y="56" font-size="13" font-weight="700" fill="#cbd5e1">Build UI</text></g>
+    <g transform="translate(254 112)"><circle r="30" fill="#141a38" stroke="#818cf8" stroke-width="2"/><text y="6" font-size="17" fill="#a5b4fc">{ }</text><text y="56" font-size="13" font-weight="700" fill="#cbd5e1">Component</text></g>
+    <g transform="translate(418 112)"><circle r="30" fill="#1b1638" stroke="#a78bfa" stroke-width="2"/><text y="6" font-size="17" fill="#c4b5fd">E2E</text><text y="56" font-size="13" font-weight="700" fill="#cbd5e1">User flows</text></g>
+    <g transform="translate(582 112)"><circle r="30" fill="#0f2a2a" stroke="#2dd4bf" stroke-width="2"/><text y="6" font-size="18" fill="#5eead4">◐</text><text y="56" font-size="13" font-weight="700" fill="#cbd5e1">Visual</text></g>
+    <g transform="translate(746 112)"><circle r="30" fill="#0f2a1c" stroke="#34d399" stroke-width="2"/><text y="6" font-size="17" fill="#6ee7b7">CI</text><text y="56" font-size="13" font-weight="700" fill="#cbd5e1">Quality gate</text></g>
+    <g transform="translate(910 112)"><circle r="30" fill="#2a240b" stroke="#facc15" stroke-width="2"/><text y="7" font-size="20" fill="#fde047">✓</text><text y="56" font-size="13" font-weight="700" fill="#cbd5e1">Release</text>
+      <circle r="30" fill="none" stroke="#facc15" opacity="0"><animate attributeName="r" values="30;30;46;46" keyTimes="0;.55;.75;1" dur="6s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;.9;0;0" keyTimes="0;.55;.75;1" dur="6s" repeatCount="indefinite"/></circle>
+    </g>
+  </g>
+</svg>

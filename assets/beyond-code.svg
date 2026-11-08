@@ -1,15 +1,15 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="190" viewBox="0 0 1000 190" role="img" aria-labelledby="title desc">
-  <title id="title">Life beyond code</title><desc id="desc">Animated path between Tunisia and Brazil, surrounded by Mohamed's interests: pets, cycling, fitness, gaming, and music.</desc>
-  <defs><linearGradient id="trail"><stop stop-color="#e11d48"/><stop offset=".5" stop-color="#f8fafc"/><stop offset="1" stop-color="#16a34a"/></linearGradient></defs>
-  <rect width="1000" height="190" rx="18" fill="#0b1020"/>
-  <text x="500" y="35" text-anchor="middle" fill="#e2e8f0" font-family="Inter,Segoe UI,sans-serif" font-size="18" font-weight="650">LIFE BEYOND CODE</text>
-  <path d="M120 104 C310 30 690 170 880 86" fill="none" stroke="#334155" stroke-width="3"/>
-  <path d="M120 104 C310 30 690 170 880 86" fill="none" stroke="url(#trail)" stroke-width="4" stroke-linecap="round" stroke-dasharray="70 700"><animate attributeName="stroke-dashoffset" values="0;-770" dur="5s" repeatCount="indefinite"/></path>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="170" viewBox="0 0 1000 170" role="img" aria-labelledby="title desc">
+  <title id="title">Beyond the keyboard</title><desc id="desc">Animated route from Tunisia to Brazil, passing Mohamed's interests: family pets, cycling, training, and gaming.</desc>
+  <defs><linearGradient id="trail" x2="1"><stop stop-color="#e11d48"/><stop offset=".5" stop-color="#e2e8f0"/><stop offset="1" stop-color="#16a34a"/></linearGradient></defs>
+  <rect width="1000" height="170" rx="20" fill="#080d1a"/>
+  <path d="M110 92 C300 32 700 150 890 82" fill="none" stroke="#1e293b" stroke-width="3"/>
+  <path d="M110 92 C300 32 700 150 890 82" fill="none" stroke="url(#trail)" stroke-width="4" stroke-linecap="round" stroke-dasharray="80 760"><animate attributeName="stroke-dashoffset" values="0;-840" dur="6s" repeatCount="indefinite"/></path>
   <g font-family="Inter,Segoe UI,sans-serif" text-anchor="middle">
-    <g transform="translate(120 104)"><circle r="32" fill="#3b111c" stroke="#e11d48"/><text y="6" font-size="24">🇹🇳</text><text y="52" fill="#fda4af" font-size="13">ROOTS</text></g>
-    <g transform="translate(310 73)"><circle r="25" fill="#172033" stroke="#64748b"/><text y="7" font-size="21">🐾</text><text y="43" fill="#94a3b8" font-size="12">PACK</text></g>
-    <g transform="translate(500 107)"><circle r="25" fill="#172033" stroke="#64748b"/><text y="7" font-size="21">🚴</text><text y="43" fill="#94a3b8" font-size="12">RIDE</text></g>
-    <g transform="translate(655 121)"><circle r="25" fill="#172033" stroke="#64748b"/><text y="7" font-size="21">🎮</text><text y="43" fill="#94a3b8" font-size="12">PLAY</text></g>
-    <g transform="translate(880 86)"><circle r="32" fill="#102b19" stroke="#16a34a"/><text y="6" font-size="24">🇧🇷</text><text y="52" fill="#86efac" font-size="13">HOME</text></g>
+    <g transform="translate(110 92)"><circle r="30" fill="#2b0d16" stroke="#e11d48"/><text y="7" font-size="22">🇹🇳</text><text y="52" fill="#fda4af" font-size="12" font-weight="700">ROOTS</text></g>
+    <g transform="translate(305 64)"><circle r="23" fill="#111827" stroke="#475569"/><text y="7" font-size="19">🐾</text><text y="42" fill="#94a3b8" font-size="11" font-weight="700">FAMILY</text></g>
+    <g transform="translate(470 92)"><circle r="23" fill="#111827" stroke="#475569"/><text y="7" font-size="19">🚴</text><text y="42" fill="#94a3b8" font-size="11" font-weight="700">CYCLING</text></g>
+    <g transform="translate(620 110)"><circle r="23" fill="#111827" stroke="#475569"/><text y="7" font-size="19">🏋️</text><text y="42" fill="#94a3b8" font-size="11" font-weight="700">TRAINING</text></g>
+    <g transform="translate(760 104)"><circle r="23" fill="#111827" stroke="#475569"/><text y="7" font-size="19">🎮</text><text y="42" fill="#94a3b8" font-size="11" font-weight="700">GAMING</text></g>
+    <g transform="translate(890 82)"><circle r="30" fill="#0b2414" stroke="#16a34a"/><text y="7" font-size="22">🇧🇷</text><text y="52" fill="#86efac" font-size="12" font-weight="700">HOME</text></g>
   </g>
 </svg>

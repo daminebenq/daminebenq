@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="330" viewBox="0 0 1000 330" role="img" aria-labelledby="title desc">
+  <title id="title">Two senior specialties</title>
+  <desc id="desc">Animated comparison of frontend engineering and SDET skills: user interfaces, performance, accessibility, design systems, end-to-end testing, API testing, visual regression, and CI quality gates.</desc>
+  <style>
+    .t{font-family:Inter,Segoe UI,Helvetica,Arial,sans-serif}.h{font-size:22px;font-weight:800;fill:#f8fafc}.s{font-size:13px;font-weight:700;letter-spacing:2px}.l{font-size:14px;fill:#cbd5e1}.p{font-size:12px;fill:#64748b}
+  </style>
+  <defs>
+    <linearGradient id="fe" x2="1"><stop stop-color="#0ea5e9"/><stop offset="1" stop-color="#8b5cf6"/></linearGradient>
+    <linearGradient id="qa" x2="1"><stop stop-color="#10b981"/><stop offset="1" stop-color="#facc15"/></linearGradient>
+  </defs>
+  <rect width="1000" height="330" rx="20" fill="#080d1a"/>
+  <g class="t">
+    <g transform="translate(28 26)">
+      <rect width="458" height="278" rx="16" fill="#0c1426" stroke="#1e3a5f"/>
+      <text x="26" y="38" class="s" fill="#38bdf8">01 · FRONTEND</text>
+      <text x="26" y="70" class="h">Interfaces people trust</text>
+      <g transform="translate(26 100)">
+        <text class="l">Component architecture</text><rect y="10" width="400" height="8" rx="4" fill="#1e293b"/><rect y="10" width="0" height="8" rx="4" fill="url(#fe)"><animate attributeName="width" values="0;376" dur="1.1s" begin=".2s" fill="freeze"/></rect>
+        <text y="46" class="l">Performance &amp; Core Web Vitals</text><rect y="56" width="400" height="8" rx="4" fill="#1e293b"/><rect y="56" width="0" height="8" rx="4" fill="url(#fe)"><animate attributeName="width" values="0;352" dur="1.1s" begin=".35s" fill="freeze"/></rect>
+        <text y="92" class="l">Accessibility (WCAG)</text><rect y="102" width="400" height="8" rx="4" fill="#1e293b"/><rect y="102" width="0" height="8" rx="4" fill="url(#fe)"><animate attributeName="width" values="0;344" dur="1.1s" begin=".5s" fill="freeze"/></rect>
+        <text y="138" class="l">Design systems &amp; responsive UI</text><rect y="148" width="400" height="8" rx="4" fill="#1e293b"/><rect y="148" width="0" height="8" rx="4" fill="url(#fe)"><animate attributeName="width" values="0;368" dur="1.1s" begin=".65s" fill="freeze"/></rect>
+      </g>
+    </g>
+    <g transform="translate(514 26)">
+      <rect width="458" height="278" rx="16" fill="#0b1712" stroke="#14532d"/>
+      <text x="26" y="38" class="s" fill="#34d399">02 · SDET</text>
+      <text x="26" y="70" class="h">Quality built into delivery</text>
+      <g transform="translate(26 100)">
+        <text class="l">E2E browser automation</text><rect y="10" width="400" height="8" rx="4" fill="#1e293b"/><rect y="10" width="0" height="8" rx="4" fill="url(#qa)"><animate attributeName="width" values="0;388" dur="1.1s" begin=".2s" fill="freeze"/></rect>
+        <text y="46" class="l">API &amp; contract testing</text><rect y="56" width="400" height="8" rx="4" fill="#1e293b"/><rect y="56" width="0" height="8" rx="4" fill="url(#qa)"><animate attributeName="width" values="0;360" dur="1.1s" begin=".35s" fill="freeze"/></rect>
+        <text y="92" class="l">Visual regression testing</text><rect y="102" width="400" height="8" rx="4" fill="#1e293b"/><rect y="102" width="0" height="8" rx="4" fill="url(#qa)"><animate attributeName="width" values="0;356" dur="1.1s" begin=".5s" fill="freeze"/></rect>
+        <text y="138" class="l">CI quality gates &amp; test strategy</text><rect y="148" width="400" height="8" rx="4" fill="#1e293b"/><rect y="148" width="0" height="8" rx="4" fill="url(#qa)"><animate attributeName="width" values="0;372" dur="1.1s" begin=".65s" fill="freeze"/></rect>
+      </g>
+    </g>
+    <text x="500" y="320" text-anchor="middle" class="p">Bars show relative focus, not a self-rating out of 100.</text>
+  </g>
+</svg>

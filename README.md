@@ -1,106 +1,145 @@
 <div align="center">
-  <img src="./assets/hero.svg" width="100%" alt="Mohamed Amine Ben Salah — Software Developer and QA Automation Engineer" />
 
-  <br />
+<img src="./assets/hero.svg" width="100%" alt="Mohamed Amine Ben Salah, Senior Frontend Developer and Senior SDET / Test Automation Engineer" />
 
-  [![Portfolio](https://img.shields.io/badge/Portfolio-damine.tn-06b6d4?style=for-the-badge&logo=safari&logoColor=white)](https://damine.tn)
-  [![Résumé](https://img.shields.io/badge/Résumé-View_CV-7c3aed?style=for-the-badge&logo=readthedocs&logoColor=white)](https://cv.damine.tn)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/damine-bens)
-  [![Email](https://img.shields.io/badge/Email-Say_Hello-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:damineone@gmail.com)
+<br />
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-damine.tn-0ea5e9?style=for-the-badge&logo=googlechrome&logoColor=white)](https://damine.tn)
+[![Résumé](https://img.shields.io/badge/Résumé-cv.damine.tn-8b5cf6?style=for-the-badge&logo=readthedocs&logoColor=white)](https://cv.damine.tn)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/damine-bens)
+[![Email](https://img.shields.io/badge/Email-Contact-10b981?style=for-the-badge&logo=gmail&logoColor=white)](mailto:damineone@gmail.com)
+
 </div>
 
-## Hello, I'm Mohamed
+## About
 
-I build dependable software, automate quality checks, and contribute to open-source products used by real communities. My work spans **test automation**, **developer tooling**, **AI-assisted workflows**, and **real-time systems**. I am an active contributor to [BigBlueButton](https://github.com/bigbluebutton/bigbluebutton), the open-source virtual classroom platform.
+I'm a **Senior Frontend Developer** and **Senior SDET / Test Automation Engineer**. I work across the full path from interface to release: I design and build user interfaces, then write the automated tests, quality gates, and CI checks that keep them stable.
 
-- 🔭 Building practical tools that remove repetitive work and make complex systems easier to operate.
-- 🧪 Turning quality into code with browser automation, CI pipelines, and repeatable tests.
-- 🌍 Tunisian roots, based in Rio Grande do Sul, Brazil.
-- 🤝 Open to open-source collaboration and ambitious engineering problems.
-
-## What I work on
-
-<img src="./assets/project-orbit.svg" width="100%" alt="Animated project constellation: open source, test automation, AI tools, and game systems" />
+My open-source work includes test automation for [**BigBlueButton**](https://github.com/bigbluebutton/bigbluebutton), the open-source virtual classroom platform. I have contributed browser tests for multi-user meetings, mobile and tablet layouts, connection recovery, and visual regressions.
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### [smart-terminal](https://github.com/daminebenq/smart-terminal)
+#### 🎨 Frontend engineering
+- React and TypeScript applications
+- Reusable components and design systems
+- Responsive, accessible interfaces
+- Performance tuning and maintainable state
 
-An AI-powered CLI that translates natural language into shell commands, assesses risk, searches the web, and keeps a human approval step in the loop.
+</td>
+<td width="50%" valign="top">
 
-`Python` `CLI` `AI` `Safety`
+#### 🧪 Test automation and SDET
+- Test strategy and automation architecture
+- Playwright, Cypress, and Puppeteer suites
+- API, BDD, visual regression, and E2E tests
+- CI pipelines, reporting, and flaky-test triage
+
+</td>
+</tr>
+</table>
+
+<img src="./assets/expertise.svg" width="100%" alt="Animated comparison of frontend and SDET specialties" />
+
+## How I work
+
+<img src="./assets/quality-pipeline.svg" width="100%" alt="Animated pipeline from building the UI through component, E2E, visual, and CI checks to release" />
+
+I treat quality as part of frontend engineering. A feature is done when users can rely on it: the UI behaves well on real devices, critical journeys are covered by tests, and the CI pipeline catches regressions before release.
+
+## Selected work
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### [BigBlueButton](https://github.com/bigbluebutton/bigbluebutton)
+**Open-source contributor · Test automation**
+
+Browser automation for the BigBlueButton HTML5 client, including mobile and tablet tests, multi-user flows, reconnection scenarios, and visual regression checks.
+
+`React` `Puppeteer` `Visual testing` `CI`
 
 </td>
 <td width="50%" valign="top">
 
 ### [bbb-puppeteer](https://github.com/daminebenq/bbb-puppeteer)
+**E2E test suite**
 
-Automated browser testing for BigBlueButton, built to make core meeting flows repeatable and easier to validate.
+Puppeteer scripts that exercise BigBlueButton meeting features against a structured test plan.
 
-`JavaScript` `Puppeteer` `E2E Testing` `BigBlueButton`
+`JavaScript` `Puppeteer` `E2E` `Test plans`
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### [cs2-stats-web](https://github.com/daminebenq/cs2-stats-web)
+### [playwright-cucumber-api-test](https://github.com/daminebenq/playwright-cucumber-api-test)
+**BDD API automation · [HTML report](https://daminebenq.github.io/playwright-cucumber-api-test/cucumber_report.html)**
 
-A public statistics and leaderboard platform with live server status, player profiles, rankings, credits, and shareable scoreboards.
+A Playwright and Cucumber framework with positive and negative API scenarios, JSON schema validation, and published reports.
 
-`PHP` `MySQL` `A2S` `Open Graph`
+`Playwright` `Cucumber` `BDD` `JSON Schema`
 
 </td>
 <td width="50%" valign="top">
 
-### [cs2-arena-elo](https://github.com/daminebenq/cs2-arena-elo)
+### [dummyjson-cypress-automation-ts](https://github.com/daminebenq/dummyjson-cypress-automation-ts)
+**Typed API test suite**
 
-A persistent 1v1 arena ranking system for Counter-Strike 2, backed by CounterStrikeSharp and MySQL.
+28 Cypress tests in TypeScript covering CRUD, search, categories, and pagination, with tag filtering, parallel runs, and dashboard recording.
 
-`C#` `.NET` `MySQL` `Game Servers`
+`Cypress` `TypeScript` `API testing` `CI`
 
 </td>
 </tr>
 </table>
 
-## Toolbox
+## Tech stack
 
 <div align="center">
 
-![TypeScript](https://img.shields.io/badge/TypeScript-111827?style=flat-square&logo=typescript&logoColor=3178C6)
-![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![Python](https://img.shields.io/badge/Python-111827?style=flat-square&logo=python&logoColor=3776AB)
-![C#](https://img.shields.io/badge/C%23-111827?style=flat-square&logo=dotnet&logoColor=8B5CF6)
-![PHP](https://img.shields.io/badge/PHP-111827?style=flat-square&logo=php&logoColor=777BB4)
-![Bash](https://img.shields.io/badge/Bash-111827?style=flat-square&logo=gnubash&logoColor=4EAA25)
-![Playwright](https://img.shields.io/badge/Playwright-111827?style=flat-square&logo=playwright&logoColor=2EAD33)
-![Puppeteer](https://img.shields.io/badge/Puppeteer-111827?style=flat-square&logo=puppeteer&logoColor=40B5A4)
-![Docker](https://img.shields.io/badge/Docker-111827?style=flat-square&logo=docker&logoColor=2496ED)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-111827?style=flat-square&logo=githubactions&logoColor=2088FF)
-![Linux](https://img.shields.io/badge/Linux-111827?style=flat-square&logo=linux&logoColor=FCC624)
-![MySQL](https://img.shields.io/badge/MySQL-111827?style=flat-square&logo=mysql&logoColor=4479A1)
+**Frontend**<br />
+![React](https://img.shields.io/badge/React-0b1120?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-0b1120?style=flat-square&logo=typescript&logoColor=3178C6)
+![JavaScript](https://img.shields.io/badge/JavaScript-0b1120?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![Vite](https://img.shields.io/badge/Vite-0b1120?style=flat-square&logo=vite&logoColor=646CFF)
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-0b1120?style=flat-square&logo=shadcnui&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0b1120?style=flat-square&logo=tailwindcss&logoColor=06B6D4)
+![HTML5](https://img.shields.io/badge/HTML5-0b1120?style=flat-square&logo=html5&logoColor=E34F26)
+![CSS](https://img.shields.io/badge/CSS-0b1120?style=flat-square&logo=css&logoColor=1572B6)
+
+**Testing and quality**<br />
+![Playwright](https://img.shields.io/badge/Playwright-0b1120?style=flat-square&logo=playwright&logoColor=2EAD33)
+![Cypress](https://img.shields.io/badge/Cypress-0b1120?style=flat-square&logo=cypress&logoColor=69D3A7)
+![Puppeteer](https://img.shields.io/badge/Puppeteer-0b1120?style=flat-square&logo=puppeteer&logoColor=40B5A4)
+![Cucumber](https://img.shields.io/badge/Cucumber-0b1120?style=flat-square&logo=cucumber&logoColor=23D96C)
+![Mocha](https://img.shields.io/badge/Mocha-0b1120?style=flat-square&logo=mocha&logoColor=8D6748)
+![Jasmine](https://img.shields.io/badge/Jasmine-0b1120?style=flat-square&logo=jasmine&logoColor=8A4182)
+
+**Delivery**<br />
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0b1120?style=flat-square&logo=githubactions&logoColor=2088FF)
+![Docker](https://img.shields.io/badge/Docker-0b1120?style=flat-square&logo=docker&logoColor=2496ED)
+![Node.js](https://img.shields.io/badge/Node.js-0b1120?style=flat-square&logo=nodedotjs&logoColor=5FA04E)
+![Linux](https://img.shields.io/badge/Linux-0b1120?style=flat-square&logo=linux&logoColor=FCC624)
+![Git](https://img.shields.io/badge/Git-0b1120?style=flat-square&logo=git&logoColor=F05032)
 
 </div>
 
-## Live GitHub activity
+## GitHub activity
 
-<img src="./assets/stats.svg" width="100%" alt="Automatically updated GitHub activity dashboard" />
+<img src="./assets/stats.svg" width="100%" alt="GitHub activity dashboard generated from the GitHub API" />
 
-<sub>This dashboard is generated from the GitHub API every day by a dependency-free script in this repository. No third-party statistics service tracks profile visitors.</sub>
+<sub>Generated from the GitHub API by a small script in this repository. No third-party statistics service or visitor tracking.</sub>
 
-## Beyond code
+## Beyond the keyboard
 
-<img src="./assets/beyond-code.svg" width="100%" alt="Animated life map from Tunisia to Brazil, with pets, cycling, and gaming" />
+<img src="./assets/beyond-code.svg" width="100%" alt="Animated route from Tunisia to Brazil with family, cycling, training, and gaming" />
 
-Life is shared with **Kovu, Dwala, Black, and Spritz**. Away from the keyboard, you will usually find me cycling, training, gaming, listening to music, or exploring southern Brazil.
+Tunisian, based in Rio Grande do Sul, Brazil. At home with Kovu, Dwala, Black, and Spritz. Outside work I ride, train, and play games.
 
-## Let's build something useful
+## Get in touch
 
-The best way to reach me is through [LinkedIn](https://linkedin.com/in/damine-bens) or [email](mailto:damineone@gmail.com). You can also explore my work at [damine.tn](https://damine.tn).
-
-<div align="center">
-  <a href="https://github.com/daminebenq?tab=followers"><img src="https://img.shields.io/github/followers/daminebenq?style=for-the-badge&label=Follow&color=22c55e" alt="Follow daminebenq on GitHub" /></a>
-  <a href="https://www.buymeacoffee.com/damine"><img src="https://img.shields.io/badge/Buy_me_a_coffee-Support-ffdd00?style=for-the-badge&logo=buymeacoffee&logoColor=000" alt="Buy me a coffee" /></a>
-</div>
+I'm open to senior frontend, SDET, and test automation roles, and to open-source collaboration. Reach me on [LinkedIn](https://linkedin.com/in/damine-bens) or by [email](mailto:damineone@gmail.com).
