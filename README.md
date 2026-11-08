@@ -4,8 +4,8 @@
 
 <br />
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-damine.tn-0ea5e9?style=for-the-badge&logo=googlechrome&logoColor=white)](https://damine.tn)
-[![Résumé](https://img.shields.io/badge/Résumé-cv.damine.tn-8b5cf6?style=for-the-badge&logo=readthedocs&logoColor=white)](https://cv.damine.tn)
+[![Portfolio](https://img.shields.io/badge/Portfolio-damine.io-0ea5e9?style=for-the-badge&logo=googlechrome&logoColor=white)](https://damine.io)
+[![Experience](https://img.shields.io/badge/Experience-View-8b5cf6?style=for-the-badge&logo=readthedocs&logoColor=white)](https://damine.io/#experience)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/damine-bens)
 [![Email](https://img.shields.io/badge/Email-Contact-10b981?style=for-the-badge&logo=gmail&logoColor=white)](mailto:damineone@gmail.com)
 
@@ -142,4 +142,4 @@ Tunisian, based in Rio Grande do Sul, Brazil. At home with Kovu, Dwala, Black, a
 
 ## Get in touch
 
-I'm open to senior frontend, SDET, and test automation roles, and to open-source collaboration. Reach me on [LinkedIn](https://linkedin.com/in/damine-bens) or by [email](mailto:damineone@gmail.com).
+I'm open to senior frontend, SDET, and test automation roles, and to open-source collaboration. Reach me on [LinkedIn](https://linkedin.com/in/damine-bens) or by [email](mailto:damineone@gmail.com), or see more of my work at [damine.io](https://damine.io).
