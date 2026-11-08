@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="300" viewBox="0 0 1000 300" role="img" aria-labelledby="title desc">
+  <title id="title">Mohamed Amine Ben Salah — Software Developer and QA Automation Engineer</title>
+  <desc id="desc">Animated dark banner with moving gradients, code symbols, and Mohamed's professional title.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#070b18"/><stop offset="0.5" stop-color="#111936"/><stop offset="1" stop-color="#071a20"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop stop-color="#7c3aed"><animate attributeName="stop-color" values="#7c3aed;#06b6d4;#22c55e;#7c3aed" dur="8s" repeatCount="indefinite"/></stop>
+      <stop offset="1" stop-color="#06b6d4"><animate attributeName="stop-color" values="#06b6d4;#22c55e;#7c3aed;#06b6d4" dur="8s" repeatCount="indefinite"/></stop>
+    </linearGradient>
+    <radialGradient id="orb"><stop stop-color="#22d3ee" stop-opacity=".6"/><stop offset="1" stop-color="#22d3ee" stop-opacity="0"/></radialGradient>
+    <filter id="glow"><feGaussianBlur stdDeviation="8"/></filter>
+    <clipPath id="reveal"><rect x="93" y="84" width="0" height="66"><animate attributeName="width" values="0;820;820" keyTimes="0;.55;1" dur="2.8s" fill="freeze"/></rect></clipPath>
+  </defs>
+  <rect width="1000" height="300" rx="24" fill="url(#bg)"/>
+  <g opacity=".22" stroke="#67e8f9" fill="none">
+    <path d="M0 55 Q220 10 430 70 T1000 42"><animate attributeName="d" values="M0 55 Q220 10 430 70 T1000 42;M0 70 Q250 105 470 40 T1000 66;M0 55 Q220 10 430 70 T1000 42" dur="10s" repeatCount="indefinite"/></path>
+    <path d="M0 245 Q200 190 430 250 T1000 215"><animate attributeName="d" values="M0 245 Q200 190 430 250 T1000 215;M0 220 Q250 275 500 205 T1000 242;M0 245 Q200 190 430 250 T1000 215" dur="12s" repeatCount="indefinite"/></path>
+  </g>
+  <circle cx="845" cy="75" r="120" fill="url(#orb)" filter="url(#glow)"><animate attributeName="cx" values="845;900;845" dur="7s" repeatCount="indefinite"/></circle>
+  <g fill="#93c5fd" opacity=".55" font-family="ui-monospace,monospace" font-size="20">
+    <text x="58" y="52">&lt;build&gt;</text><text x="824" y="255">ship();</text><text x="866" y="126">✓</text>
+  </g>
+  <g clip-path="url(#reveal)">
+    <text x="94" y="128" fill="#f8fafc" font-family="Inter,Segoe UI,sans-serif" font-size="48" font-weight="750">Mohamed Amine Ben Salah</text>
+  </g>
+  <rect x="94" y="151" width="560" height="4" rx="2" fill="url(#accent)"><animate attributeName="width" values="0;560" dur="2.4s" fill="freeze"/></rect>
+  <text x="94" y="194" fill="#cbd5e1" font-family="Inter,Segoe UI,sans-serif" font-size="23">Software Developer  •  QA Automation Engineer  •  Open Source</text>
+  <g transform="translate(94 223)">
+    <circle cx="7" cy="7" r="7" fill="#22c55e"><animate attributeName="opacity" values="1;.25;1" dur="1.8s" repeatCount="indefinite"/></circle>
+    <text x="25" y="14" fill="#94a3b8" font-family="Inter,Segoe UI,sans-serif" font-size="18">Building dependable systems from southern Brazil</text>
+  </g>
+  <rect x="1" y="1" width="998" height="298" rx="23" fill="none" stroke="url(#accent)" stroke-opacity=".55"/>
+</svg>

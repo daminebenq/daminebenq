@@ -1,86 +1,106 @@
-### Hi there, I'm Mohamed Amine - aka [DAMINE][website] 👋
+<div align="center">
+  <img src="./assets/hero.svg" width="100%" alt="Mohamed Amine Ben Salah — Software Developer and QA Automation Engineer" />
 
-[![Website](https://img.shields.io/website?label=damine.tn&style=for-the-badge&url=https://damine.tn)](https://damine.tn) [![Curriculum Vitae](https://img.shields.io/website?label=cv.damine.tn&style=for-the-badge&url=https://cv.damine.tn)](https://cv.damine.tn) <a href="https://www.buymeacoffee.com/damine" target="_blank"><img width="150px" height="40px" src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" /></a>
+  <br />
 
-## I'm a Software Developer, and a Gamer!!
+  [![Portfolio](https://img.shields.io/badge/Portfolio-damine.tn-06b6d4?style=for-the-badge&logo=safari&logoColor=white)](https://damine.tn)
+  [![Résumé](https://img.shields.io/badge/Résumé-View_CV-7c3aed?style=for-the-badge&logo=readthedocs&logoColor=white)](https://cv.damine.tn)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/damine-bens)
+  [![Email](https://img.shields.io/badge/Email-Say_Hello-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:damineone@gmail.com)
+</div>
 
-- 🌱 I’m currently learning everything 🤣
-- 🥅 2027 Goals: Learn everything.
-- ⚡ Fun fact: I ride my bike at the weekends.
-- 🏋️ And yeah, I started going to gym 😬...
+## Hello, I'm Mohamed
 
+I build dependable software, automate quality checks, and contribute to open-source products used by real communities. My work spans **test automation**, **developer tooling**, **AI-assisted workflows**, and **real-time systems**. I am an active contributor to [BigBlueButton](https://github.com/bigbluebutton/bigbluebutton), the open-source virtual classroom platform.
 
-## I'm a Father of 2 cats & 2 dogs (Kovu, Dwala, Black & Spritz) 🐈+🐈+🐕+🐕  = 🤯
+- 🔭 Building practical tools that remove repetitive work and make complex systems easier to operate.
+- 🧪 Turning quality into code with browser automation, CI pipelines, and repeatable tests.
+- 🌍 Tunisian roots, based in Rio Grande do Sul, Brazil.
+- 🤝 Open to open-source collaboration and ambitious engineering problems.
 
-<!--<img src="https://raw.githubusercontent.com/daminebenq/daminebenq/master/imgs/cats_github.jpeg" width="854px;" alt="MY BABIES"/> -->
-<table align="center" style="border: none;">
-  <tr>
-    <td align="center">
-      <h4>Kovu ♂🐈 [3≈y9m]</h4>
-        <img src="https://raw.githubusercontent.com/daminebenq/daminebenq/master/imgs/kovu_github.jpeg" width="100px;" alt="Kovu"/>
-        <br />
-    </td>
-    <td align="center">
-      <h4>Dwala ♀️🐈 [≈2y4mm]</h4>
-        <img src="https://raw.githubusercontent.com/daminebenq/daminebenq/master/imgs/dwala_github.jpeg" width="100px;" alt="Dwala"/>
-        <br />
-    </td>
-    <td align="center">
-      <h4>Black ♀️🐕 [≈3y]</h4>
-        <img src="https://raw.githubusercontent.com/daminebenq/daminebenq/master/imgs/SCR-20231220-tkml.png" width="100px;" alt="Dwala"/>
-        <br />
-    </td>
-    <td align="center">
-      <h4>Spritz ♀️🐕 [≈4m]</h4>
-        <img src="https://raw.githubusercontent.com/daminebenq/daminebenq/master/imgs/SCR-20231220-tjym.png" width="100px;" alt="Dwala"/>
-        <br />
-    </td>
-    <!--<td align="center">
-      <h4>Black ♂🐕 [≈4m]</h4>
-        <img src="https://user-images.githubusercontent.com/5144311/117874919-f8cd7980-b277-11eb-9659-d6f67d2048f9.png" width="100px;" alt="Black"/>
-        <br />
-    </td>-->
-  </tr>
+## What I work on
+
+<img src="./assets/project-orbit.svg" width="100%" alt="Animated project constellation: open source, test automation, AI tools, and game systems" />
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### [smart-terminal](https://github.com/daminebenq/smart-terminal)
+
+An AI-powered CLI that translates natural language into shell commands, assesses risk, searches the web, and keeps a human approval step in the loop.
+
+`Python` `CLI` `AI` `Safety`
+
+</td>
+<td width="50%" valign="top">
+
+### [bbb-puppeteer](https://github.com/daminebenq/bbb-puppeteer)
+
+Automated browser testing for BigBlueButton, built to make core meeting flows repeatable and easier to validate.
+
+`JavaScript` `Puppeteer` `E2E Testing` `BigBlueButton`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [cs2-stats-web](https://github.com/daminebenq/cs2-stats-web)
+
+A public statistics and leaderboard platform with live server status, player profiles, rankings, credits, and shareable scoreboards.
+
+`PHP` `MySQL` `A2S` `Open Graph`
+
+</td>
+<td width="50%" valign="top">
+
+### [cs2-arena-elo](https://github.com/daminebenq/cs2-arena-elo)
+
+A persistent 1v1 arena ranking system for Counter-Strike 2, backed by CounterStrikeSharp and MySQL.
+
+`C#` `.NET` `MySQL` `Game Servers`
+
+</td>
+</tr>
 </table>
 
-### Spotify Playing 🎧
+## Toolbox
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=tl90kbd8txx11xwbdblqu1t1i)
+<div align="center">
 
-<img style="max-width: 300px;" src="http://88.214.58.107:1232/currentavatar" alt="Currently playing with TS3MusicBot®." title="Currently playing with TS3MusicBot®." />
+![TypeScript](https://img.shields.io/badge/TypeScript-111827?style=flat-square&logo=typescript&logoColor=3178C6)
+![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![Python](https://img.shields.io/badge/Python-111827?style=flat-square&logo=python&logoColor=3776AB)
+![C#](https://img.shields.io/badge/C%23-111827?style=flat-square&logo=dotnet&logoColor=8B5CF6)
+![PHP](https://img.shields.io/badge/PHP-111827?style=flat-square&logo=php&logoColor=777BB4)
+![Bash](https://img.shields.io/badge/Bash-111827?style=flat-square&logo=gnubash&logoColor=4EAA25)
+![Playwright](https://img.shields.io/badge/Playwright-111827?style=flat-square&logo=playwright&logoColor=2EAD33)
+![Puppeteer](https://img.shields.io/badge/Puppeteer-111827?style=flat-square&logo=puppeteer&logoColor=40B5A4)
+![Docker](https://img.shields.io/badge/Docker-111827?style=flat-square&logo=docker&logoColor=2496ED)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-111827?style=flat-square&logo=githubactions&logoColor=2088FF)
+![Linux](https://img.shields.io/badge/Linux-111827?style=flat-square&logo=linux&logoColor=FCC624)
+![MySQL](https://img.shields.io/badge/MySQL-111827?style=flat-square&logo=mysql&logoColor=4479A1)
 
-## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
+</div>
 
-### Connect with me:
+## Live GitHub activity
 
-[<img align="left" alt="damine.com" width="22px" src="https://icons.iconarchive.com/icons/treetog/junior/128/earth-icon.png" />][website]
-[<img align="left" alt="DAMINE (TunisianInBrazil)j | YouTube" width="22px" src="https://icons.iconarchive.com/icons/dakirby309/simply-styled/128/YouTube-icon.png" />][youtube]
-[<img align="left" alt="DAMINE | Twitter" width="22px" src="https://icons.iconarchive.com/icons/bokehlicia/pacifica/128/twitter-icon.png" />][twitter]
-[<img align="left" alt="DAMINE | LinkedIn" width="22px" src="https://icons.iconarchive.com/icons/limav/flat-gradient-social/128/Linkedin-icon.png" />][linkedin]
-[<img align="left" alt="DAMINE | Instagram" width="22px" src="https://www.iconninja.com/files/268/699/635/instagram-icon.png" />][instagram]
-[<img align="left" alt="DAMINE (TunisianInBrazil) | Twitch" width="22px" src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/128/gnome-twitch-icon.png" />][twitch]
-<br />
+<img src="./assets/stats.svg" width="100%" alt="Automatically updated GitHub activity dashboard" />
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
+<sub>This dashboard is generated from the GitHub API every day by a dependency-free script in this repository. No third-party statistics service tracks profile visitors.</sub>
 
-  <a href="https://github.com/daminebenq/daminebenq">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daminebenq&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-  </a>
-  <a href="https://github.com/daminebenq/daminebenq">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=daminebenq&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="daminebenq's GitHub Stats" />
-  </a>
+## Beyond code
 
-</details>
+<img src="./assets/beyond-code.svg" width="100%" alt="Animated life map from Tunisia to Brazil, with pets, cycling, and gaming" />
 
-[website]: https://damine.tn
-[linkedin]: https://linkedin.com/in/damine-bens
-[facebook]: https://facebook.com/damine.wtf
-[instagram]: https://instagram.com/damine.js
-[twitch]: https://twitch.com/tunisianinbrazil
-[youtube]: https://youtube.com/tunisianinbrazil
-[twitter]: https://twitter.com/daminebenz
+Life is shared with **Kovu, Dwala, Black, and Spritz**. Away from the keyboard, you will usually find me cycling, training, gaming, listening to music, or exploring southern Brazil.
+
+## Let's build something useful
+
+The best way to reach me is through [LinkedIn](https://linkedin.com/in/damine-bens) or [email](mailto:damineone@gmail.com). You can also explore my work at [damine.tn](https://damine.tn).
+
+<div align="center">
+  <a href="https://github.com/daminebenq?tab=followers"><img src="https://img.shields.io/github/followers/daminebenq?style=for-the-badge&label=Follow&color=22c55e" alt="Follow daminebenq on GitHub" /></a>
+  <a href="https://www.buymeacoffee.com/damine"><img src="https://img.shields.io/badge/Buy_me_a_coffee-Support-ffdd00?style=for-the-badge&logo=buymeacoffee&logoColor=000" alt="Buy me a coffee" /></a>
+</div>
